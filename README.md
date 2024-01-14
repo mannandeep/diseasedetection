@@ -1,1 +1,1 @@
-# diseasedetection
+# textclassification
